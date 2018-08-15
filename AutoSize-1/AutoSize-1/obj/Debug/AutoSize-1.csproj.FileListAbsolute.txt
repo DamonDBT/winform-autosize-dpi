@@ -1,0 +1,10 @@
+E:\codeStudy\8-C#\DemoAutoSizeForm\AutoSize-1\AutoSize-1\bin\Debug\AutoSize-1.exe.config
+E:\codeStudy\8-C#\DemoAutoSizeForm\AutoSize-1\AutoSize-1\bin\Debug\AutoSize-1.exe
+E:\codeStudy\8-C#\DemoAutoSizeForm\AutoSize-1\AutoSize-1\bin\Debug\AutoSize-1.pdb
+E:\codeStudy\8-C#\DemoAutoSizeForm\AutoSize-1\AutoSize-1\obj\Debug\AutoSize-1.csprojResolveAssemblyReference.cache
+E:\codeStudy\8-C#\DemoAutoSizeForm\AutoSize-1\AutoSize-1\obj\Debug\AutoSize_1.Form1.resources
+E:\codeStudy\8-C#\DemoAutoSizeForm\AutoSize-1\AutoSize-1\obj\Debug\AutoSize_1.Properties.Resources.resources
+E:\codeStudy\8-C#\DemoAutoSizeForm\AutoSize-1\AutoSize-1\obj\Debug\AutoSize-1.csproj.GenerateResource.Cache
+E:\codeStudy\8-C#\DemoAutoSizeForm\AutoSize-1\AutoSize-1\obj\Debug\AutoSize-1.exe
+E:\codeStudy\8-C#\DemoAutoSizeForm\AutoSize-1\AutoSize-1\obj\Debug\AutoSize-1.pdb
+E:\codeStudy\8-C#\DemoAutoSizeForm\AutoSize-1\AutoSize-1\obj\Debug\AutoSize_1.Form2.resources
